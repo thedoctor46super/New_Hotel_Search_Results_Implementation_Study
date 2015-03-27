@@ -1,0 +1,16 @@
+﻿[
+    {
+		"id": "3",
+        "description": "i31",
+        "stars": "4",
+        "rating": "12",
+		"ratingSmiley": "1",
+		"oldPrice": "120",
+		"newPrice": "100",
+		"imgCollagePath": "images/hotels/3/11280390_v4_collage_.jpeg",
+		"collageMode": "8",
+		"address": "Invalidenstrasse 31 , Berlin, 10115, Germany",
+		"category": "Hotel",
+		"partnerName": "priceline.com"
+    }
+]

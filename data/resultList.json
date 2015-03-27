@@ -1,0 +1,152 @@
+﻿[
+    {
+		"id": "1",
+        "description": "Adlon Kempinski Berlin",
+        "stars": "5",
+        "rating": "86",
+		"ratingSmiley": "5",
+		"oldPrice": "126",
+		"newPrice": "99",
+		"imgPath": "images/hotels/1/5568_v8_mc.jpeg"
+    },
+    {
+		"id": "2",
+        "description": "Berlin Marriott",
+        "stars": "3",
+        "rating": "77",
+		"ratingSmiley": "4",
+		"oldPrice": "1199",
+		"newPrice": "1160",
+		"imgPath": "images/hotels/2/5543_v6_mc.jpeg"
+    },
+	{
+		"id": "3",
+        "description": "i31",
+        "stars": "4",
+        "rating": "12",
+		"ratingSmiley": "1",
+		"oldPrice": "120",
+		"newPrice": "100",
+		"imgPath": "images/hotels/3/2524442_v7_mc.jpeg"
+    },
+	{
+		"id": "4",
+        "description": "H2 Berlin-Alexanderplatz",
+        "stars": "3",
+        "rating": "65",
+		"ratingSmiley": "3",
+		"oldPrice": "799",
+		"newPrice": "789",
+		"imgPath": "images/hotels/4/1613533_v5_mc.jpeg"
+    },
+	{
+		"id": "5",
+        "description": "Hotel 103",
+        "stars": "4",
+        "rating": "95",
+		"ratingSmiley": "5",
+		"oldPrice": "1301",
+		"newPrice": "1199",
+		"imgPath": "images/hotels/5/5564_v1_mc.jpeg"
+    },
+	{
+		"id": "6",
+        "description": "Hotel 103",
+        "stars": "4",
+        "rating": "95",
+		"ratingSmiley": "5",
+		"oldPrice": "1301",
+		"newPrice": "1199",
+		"imgPath": "images/hotels/5/5564_v1_mc.jpeg"
+    },
+	{
+		"id": "7",
+        "description": "i31",
+        "stars": "4",
+        "rating": "12",
+		"ratingSmiley": "1",
+		"oldPrice": "120",
+		"newPrice": "100",
+		"imgPath": "images/hotels/3/2524442_v7_mc.jpeg"
+    },
+	{
+		"id": "8",
+        "description": "H2 Berlin-Alexanderplatz",
+        "stars": "3",
+        "rating": "65",
+		"ratingSmiley": "3",
+		"oldPrice": "799",
+		"newPrice": "789",
+		"imgPath": "images/hotels/4/1613533_v5_mc.jpeg"
+    },
+	{
+		"id": "9",
+        "description": "Berlin Marriott",
+        "stars": "3",
+        "rating": "77",
+		"ratingSmiley": "4",
+		"oldPrice": "1199",
+		"newPrice": "1160",
+		"imgPath": "images/hotels/2/5543_v6_mc.jpeg"
+    },
+	{
+		"id": "10",
+        "description": "Adlon Kempinski Berlin",
+        "stars": "5",
+        "rating": "86",
+		"ratingSmiley": "5",
+		"oldPrice": "126",
+		"newPrice": "99",
+		"imgPath": "images/hotels/1/5568_v8_mc.jpeg"
+    },
+	{
+		"id": "11",
+        "description": "Adlon Kempinski Berlin",
+        "stars": "5",
+        "rating": "86",
+		"ratingSmiley": "5",
+		"oldPrice": "126",
+		"newPrice": "99",
+		"imgPath": "images/hotels/1/5568_v8_mc.jpeg"
+    },
+    {
+		"id": "12",
+        "description": "Berlin Marriott",
+        "stars": "3",
+        "rating": "77",
+		"ratingSmiley": "4",
+		"oldPrice": "1199",
+		"newPrice": "1160",
+		"imgPath": "images/hotels/2/5543_v6_mc.jpeg"
+    },
+	{
+		"id": "13",
+        "description": "i31",
+        "stars": "4",
+        "rating": "12",
+		"ratingSmiley": "1",
+		"oldPrice": "120",
+		"newPrice": "100",
+		"imgPath": "images/hotels/3/2524442_v7_mc.jpeg"
+    },
+	{
+		"id": "14",
+        "description": "H2 Berlin-Alexanderplatz",
+        "stars": "3",
+        "rating": "65",
+		"ratingSmiley": "3",
+		"oldPrice": "799",
+		"newPrice": "789",
+		"imgPath": "images/hotels/4/1613533_v5_mc.jpeg"
+    },
+	{
+		"id": "15",
+        "description": "Hotel 103",
+        "stars": "4",
+        "rating": "95",
+		"ratingSmiley": "5",
+		"oldPrice": "1301",
+		"newPrice": "1199",
+		"imgPath": "images/hotels/5/5564_v1_mc.jpeg"
+    }
+]

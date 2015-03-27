@@ -1,0 +1,16 @@
+﻿[
+    {
+		"id": "4",
+        "description": "H2 Berlin-Alexanderplatz",
+        "stars": "3",
+        "rating": "65",
+		"ratingSmiley": "3",
+		"oldPrice": "799",
+		"newPrice": "789",
+		"imgCollagePath": "images/hotels/4/9961694_v19_collage_.jpeg",
+		"collageMode": "7",
+		"address": "Karl-Liebknecht-Straße 32, Berlin, 10178, Germany",
+		"category": "Hotel",
+		"partnerName": "hotel.info"
+    }
+]

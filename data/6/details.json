@@ -1,0 +1,16 @@
+﻿[
+    {
+		"id": "5",
+        "description": "Hotel 103",
+        "stars": "4",
+        "rating": "95",
+		"ratingSmiley": "5",
+		"oldPrice": "1301",
+		"newPrice": "1199",
+		"imgCollagePath": "images/hotels/5/14782084_collage_.jpeg",
+		"collageMode": "5",
+		"address": "Schönhauser Allee 103, Berlin, 10439, Germany",
+		"category": "Hotel",
+		"partnerName": "GetaRoom"
+    }
+]

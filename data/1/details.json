@@ -1,0 +1,16 @@
+﻿[
+    {
+		"id": "1",
+        "description": "Adlon Kempinski Berlin",
+        "stars": "5",
+        "rating": "86",
+		"ratingSmiley": "5",
+		"oldPrice": "126",
+		"newPrice": "99",
+		"imgCollagePath": "images/hotels/1/10837475_v6_collage_.jpeg",
+		"collageMode": "8",
+		"address": "Yorckstraße 83, Berlin, 10965, Germany",
+		"category": "Hotel",
+		"partnerName": "EXPEDIA"
+    }
+]
